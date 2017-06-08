@@ -1,0 +1,37 @@
+h1, personal{
+  font-family: Verdana;
+  color: white;
+  text-align: center;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 50px;
+}
+
+#download{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+body{
+  background-color: black;
+  text-align: center;
+}
+
+.personal{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.description{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.ending{
+  font-family: Verdana;
+  text-align: right;
+  color: gray;
+}
